@@ -1,0 +1,17 @@
+
+•	Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass client was owned by our client Liam. Their purpose is to provide students with online and offline access to online practice exams, and on-the-road training to help prepare them for driving tests. They wanted a system that was cross-platform, implementing GPS navigation and pickup features, and the ability to take practice exams online.
+
+•	What did you do particularly well?
+In gathering requirements, I extrapolated all of the necessary Performance requirements, and broke them into sub-category requirements as Speed, Scalability, Redundancy, and Recoverability; also including technologies listed with requirements such as CloudEndure from Amazon AWS for recoverability. In addition I detailed platform constraints accurately by clarifying our solution – certain serverless functions can be hosted as an AWS lambda, and REST API detailed technology such as PostgreSQL and Ruby on Rails server.
+
+•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would add clarifications on the Gantt chart, as well as additional security information. I might go over testing and maintenance of the system, and extrapolate additional technical requirements for the System design document template.
+
+•	How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I first gathered all the information needed from the DriverPass interview. Then by arranging this data into User stories, our team was able to convert the needs into business value and functionality; the user’s needs should be first and foremost in determining requirements as they will be the ones using the product the most in the end, paying attention to their needs and working side by side with customers and stakeholders ensures a solid user experience.
+
+
+•	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I would incorporate my learnings of the AGILE methodology in certain projects, Waterfall for others, and I would use the SDLC to help gather requirements based on user stories, plan a roadmap by creating data flow diagrams, and Object UML charts, develop these stories into functionality using a Test-Driven Development approach, and deploy and maintain the product with a strategic integration plan. 
