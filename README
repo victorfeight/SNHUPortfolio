@@ -1,3 +1,18 @@
+CS320
+
+How can I ensure that my code, program, or software is functional and secure?
+By utilizing a Test-Driven development workflow, learning CI/CD developmental workflow, and catching bugs as early in the SLDC as possible. Testing thoroughly and often, is the key to preventing costly regression bugs.
+
+How do I interpret user needs and incorporate them into a program?
+By communicating with customers or stakeholders regarding any ambiguities in the user requirements we can ensure test cases are written exactly as intended. After a phase of the system has been tested, it's important to interview again to ensure the intended behavior is in fact what they wanted.
+
+
+How do I approach designing software?
+Design and create tests for each function of the program, and code to pass these tests. Write new code on any failed test. Upload to a version controlling such as git, and run tests against any changes.
+
+
+
+
 CS250
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
