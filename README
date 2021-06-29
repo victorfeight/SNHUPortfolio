@@ -1,3 +1,30 @@
+CS330
+
+Relevant files:
+*   Design_decisions.docx
+*   OpenGLSample_Final_project.zip
+
+      In approaching the design of software, I have found that incremental updates to the codebase with constant tests is an effective method of development for 3D programming, as well
+      as other types of programming. The use of a test-driven incremental approach allows any rollbacks to code changes that break compilation, allowing me
+      to have a working copy of the codebase at any given time.
+      I've also learned the mathematics and OpenGL pipeline in constructing primitive and 3D shapes from their equations, vertices, indices, and stride.
+      
+      In addition, I've learned how to send data directly to the GPU for shading and lighting effects via the vertex shader and fragment shader, allowing effective lighting and textured
+      shading of a 3D scene.
+      
+      In following along with the Modern OpenGL 3D tutorial, I followed the approach of incremental programming, as well as abstracting functionality through the use of C++ methods
+      and classes, allowing code reduction and efficiency in rendering each object's mesh, textures, and lighting. 
+        
+      This iterative development approach, coupled with Github can be applied to all future projects, allowing me to retain a working codebase at all times without losing work.
+      New strategies I've learned include delving deep into the C++ documents and OpenGL tutorials for working examples with explained parameters and flags to incorporate into my code,
+      through this iterative work and through much hardship in getting the examples working in my own code, I was able to complete my 3D scene. Given a bit more time I could
+      perfect the lighting and shading on the scene, giving a more realistic effect. Some problems I ran into were the ordering of the code, for example if 
+      I attempted to render the mesh without setting all the indices and strides correctly in order it would not appear or render incorrectly.
+
+      Computational graphics and visualizations may be one of the most challenging courses I have taken to date, however the skills and perseverance it has taught me will
+      guide me to success in my future educational and professional pathway by instilling the rigour and iterative development skills into my work.
+
+
 CS305
 
 
